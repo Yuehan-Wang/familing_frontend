@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.0",
     "@tamagui/config": "^1.89.20",
     "@types/react": "~18.2.45",
     "expo": "^50.0.1",

@@ -5,7 +5,7 @@ import React from 'react'
 const HomePage = () => {
     return (
         <View>
-            <Link href="/add/addTask">Add Task</Link>
+            <Link href="/home/add/addTask">Add Task</Link>
         </View>
     )
 }
